@@ -1,0 +1,11 @@
+{
+	"name": "node-api",
+	"version": "1.0.0",
+	"description": "Automation for API NodeJS",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Caio Majdalani",
+	"license": "ISC"
+}
